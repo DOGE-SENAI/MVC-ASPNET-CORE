@@ -1,4 +1,4 @@
-<h1 align="center">ASP.NET Core - MVC</h1>
+<h1 align="center">ASP.NET Core - MVCMovie</h1>
 
 
 
@@ -7,8 +7,9 @@
 
 
 <h2 align="center">
-    <a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio" target="_blank" style="color:black; text-decoration:none;"> 🔗 Tutorial ASP.NET Core MVC</a>
+    <a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio" target="_blank" style="color:black; text-decoration:none;"> 🔗 Tutorial ASP.NET Core MVC por Microsoft Docs</a>
 </h2>
+
 
 <p>🚀 Aplicativo de acordo com os padrões MVC, que gerencia e exibe dados de filmes. O aplicativo é resultado do Tutorial da Microsoft Docs</p>
 
@@ -16,14 +17,16 @@
 
 
 
-## :hammer: Tecnologias Utilizadas
+## :hammer: Tecnologias e Ferramentas Utilizadas
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- ASP.NET CORE
-- C#
-- SQLite
-- AWS
+- **ASP.NET CORE**
+- **C#**
+- **SQLite**
+- **HTML**
+- **CSS**
+- **Bootstrap** - *version 4.3.1*
 
 
 
