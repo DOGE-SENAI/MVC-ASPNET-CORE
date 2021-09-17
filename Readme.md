@@ -69,7 +69,4 @@ $ dotnet run
 
 
 
-### :link: [Link do Projeto]()
-
-
 
